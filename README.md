@@ -1,5 +1,5 @@
 # PicoCTF 2025 - Secure Email Service (ID 496)
-I have finished the secure-email-service challenge (Hard level) from PicoCTF, and here is the explanation!
+I have finished the secure-email-service challenge (Hard level) from PicoCTF, and here is the explanation:
 #
 Challenge Overview:
 - Category: Web Exploitation
