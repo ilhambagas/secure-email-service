@@ -1,5 +1,5 @@
 # PicoCTF 2025 - Secure Email Service (ID 496)
-I have finished the secure-email-service challenge (Hard level) from PicoCTF, and here is the explanation:
+Welcome Ladies and Gentlemen. Today I'm gonna show you how to steal the admin's browser `localStorage` flag by exploiting flaws in email parsing and rendering.
 #
 Challenge Overview:
 - Category: Web Exploitation
