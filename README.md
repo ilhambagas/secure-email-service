@@ -132,8 +132,3 @@ webhook output:
 pip install requests z3-solver pycryptodome
 npm install -g requestcatcher
 ```
-#
-
-Don't forget to visit my PicoCTF profile on:
-
-https://play.picoctf.org/users/ilhambagas
